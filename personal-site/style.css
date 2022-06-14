@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #F6FBF4;
+}
+
+h1 {
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Gentium Plus', serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+.top {
+    background-color: #DAEAF1;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle {}
+
+.bottom {}
+
+.bottomcloud {
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+
+.topcloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.skill-row {
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    float: left;
+    margin-right: 30px;
+    margin-left: 50px;
+    margin: 30px;
+}
+
+.hobby {
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    float: right;
+    margin-right: 30px;
+    margin-left: 50px;
+    margin: 30px;
+}
+
+.bottom-container {
+    display: inline-block;
+}
+
+.skills {
+    text-align: center;
+}
+
+.profile {
+    margin: 30px;
+}
+
+.contactme {
+    margin-top: 70%;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.skillpara {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
